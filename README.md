@@ -24,7 +24,7 @@
 <title> Saveetha Engineering College</title>
 </head>
 <body bgcolor="cyan" text-"black">
-<h1 <p><center>Saveetha Engineeering College</center></p></h1>
+<h1 style-"text-align:center;">Saveetha Engineering College</h1>
 <hr width="px;" color="red">
 <ol type="A">
 <li>Agricultural Engineering</li>
@@ -45,7 +45,8 @@
 
 
 ## OUTPUT
-![WhatsApp Image 2023-04-01 at 21 56 02](https://user-images.githubusercontent.com/127816313/229302985-b86a133f-a054-41ca-a979-aeb6357460ce.jpg)
+
+![image](https://user-images.githubusercontent.com/127816313/229995172-415d3871-b185-4773-9e02-b2ecc5c63049.png)
 
 
 ## RESULT
